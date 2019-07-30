@@ -16,6 +16,8 @@ gem 'puma', '~> 3.11'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
+gem 'simple_token_authentication', '~> 1.0' # see semver.org
+gem 'rb-readline', '~> 0.5.3'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
